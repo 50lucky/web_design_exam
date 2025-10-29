@@ -1,0 +1,21 @@
+([{git config --global user.name "Your Name"}]):   ths command is used to Set your username.
+
+([{git config --global user.email "you@example.com" }]):  ths command is used to Set your username.
+
+([{git init}]):   is used for initialize new repository.
+
+([{git clone}]):   ths command is used to Clone repository.
+
+([{ls}]):   is used for Show files and folders.
+
+ ([{pwd}]):   is used for Check current directory.
+
+([{touch filename.txt}]):    ths command is used to Create new file.
+
+([{rm filename.txt}]):   ths command is used to Remove file.
+
+([{mkdir foldername}]):    ths command is used to Create new folder.
+
+([{cd foldername }]):   ths command is used to Move into a folder.
+	
+
